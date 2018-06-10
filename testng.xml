@@ -1,0 +1,13 @@
+
+<suite name="Lavanya">
+  <test name="Selenium">
+    <classes>
+      <class name="com.testng.FirstTestNgTest"/>
+      <class name="com.testng.MultipleTestCase"/>
+      <class name="com.testng.AdminLoginTest"/>
+      <class name="com.testng.BeforeTestAfterTest"/>
+      <class name="com.testng.Annotations"/>
+
+    </classes>
+  </test>
+</suite> 

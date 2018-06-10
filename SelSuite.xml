@@ -1,0 +1,12 @@
+
+<suite name="VasuDeva">
+  <test name="Regression">
+    <classes>
+      
+      <class name="com.testng.AddEmpTest"/>
+      
+      <class name="com.testng.EmpListTest"/>
+      
+    </classes>
+  </test> 
+</suite> 

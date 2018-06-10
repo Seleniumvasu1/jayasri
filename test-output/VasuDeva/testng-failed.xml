@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [VasuDeva]">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="com.testng.EmpListTest">
+        <methods>
+          <include name="empList"/>
+        </methods>
+      </class> <!-- com.testng.EmpListTest -->
+      <class name="com.testng.AddEmpTest">
+        <methods>
+          <include name="appLogout"/>
+          <include name="appLogin"/>
+          <include name="appClose"/>
+          <include name="appLaunch"/>
+        </methods>
+      </class> <!-- com.testng.AddEmpTest -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [VasuDeva] -->
